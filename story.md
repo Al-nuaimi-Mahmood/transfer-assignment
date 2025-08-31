@@ -1,4 +1,5 @@
-# My Git Adventure
+#Every commit feels like leaving a footprint in the project’s history.
+ My Git Adventure
 
 Git is a magical tool that helps me track changes in my code.
 
