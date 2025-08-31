@@ -2,4 +2,7 @@ matrix:
   - name: Markdown
     files: '**/*.md'
     dictionary: en_US
+git add .github/spellcheck.yml
+git commit -m "Add correct spellcheck configuration"
+git push origin feature/my-story
 
