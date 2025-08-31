@@ -1,3 +1,4 @@
+Using branches, I can experiment safely without affecting the main code.
 #Every commit feels like leaving a footprint in the project’s history.
  My Git Adventure
 
