@@ -1,0 +1,11 @@
+version: 0.2
+dictionary:
+  wordlists:
+    - .github/wordlist.txt
+matrix:
+  include:
+    - name: Markdown
+      files:
+        - '**/*.md'
+
+
