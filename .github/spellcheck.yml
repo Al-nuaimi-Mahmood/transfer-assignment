@@ -1,7 +1,7 @@
 version: 0.2
 
 matrix:
-  Markdown:
+  - name: Markdown
     language: en
     aspell:
       lang: en
