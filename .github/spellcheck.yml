@@ -2,9 +2,7 @@ version: 0.2
 dictionary:
   wordlists:
     - .github/wordlist.txt
-matrix:
-  - name: Markdown
-    files:
-      - '**/*.md'
+source_files:
+  - '**/*.md'
 
 
