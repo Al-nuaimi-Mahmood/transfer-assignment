@@ -6,8 +6,8 @@ dictionary:
 
 tasks:
   Markdown:
-    spellcheck:
-      language: en
+    aspell:
+      lang: en
       source_files:
         - '**/*.md'
 
