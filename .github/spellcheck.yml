@@ -1,8 +1,14 @@
 version: 0.2
+
 dictionary:
   wordlists:
     - .github/wordlist.txt
+
 source_files:
   - '**/*.md'
 
+tasks:
+  Markdown:
+    aspell:
+      lang: en
 
