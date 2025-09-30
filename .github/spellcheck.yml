@@ -3,9 +3,8 @@ dictionary:
   wordlists:
     - .github/wordlist.txt
 matrix:
-  include:
-    - name: Markdown
-      files:
-        - '**/*.md'
+  - name: Markdown
+    files:
+      - '**/*.md'
 
 
