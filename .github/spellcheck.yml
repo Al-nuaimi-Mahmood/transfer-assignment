@@ -1,14 +1,14 @@
 version: 0.2
 
+matrix:
+  Markdown:
+    language: en
+    aspell:
+      lang: en
+    source_files:
+      - '**/*.md'
+
 dictionary:
   wordlists:
     - .github/wordlist.txt
-
-source_files:
-  - '**/*.md'
-
-tasks:
-  Markdown:
-    spellcheck:
-      language: en
 
