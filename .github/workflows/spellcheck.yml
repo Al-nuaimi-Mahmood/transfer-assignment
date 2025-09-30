@@ -18,4 +18,5 @@ jobs:
         with:
           config_path: .github/spellcheck.yml
           source_files: '**/*.md'
+          task_name: Markdown
 
