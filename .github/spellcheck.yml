@@ -4,11 +4,10 @@ dictionary:
   wordlists:
     - .github/wordlist.txt
 
-source_files:
-  - '**/*.md'
-
 tasks:
   Markdown:
-    aspell:
-      lang: en
+    spellcheck:
+      language: en
+      source_files:
+        - '**/*.md'
 
